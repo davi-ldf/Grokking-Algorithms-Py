@@ -18,10 +18,9 @@ def pesquisa_binaria(lista, item):
         else:
             print(f"{chute} é menor que {item}, procurando na metade direita.")
             baixo = meio + 1
-
     print("Item não encontrado.")
     return None
 
 # Exemplo
 minha_lista = [1, 3, 5, 7, 9]
-print("\nResultado final:", pesquisa_binaria(minha_lista, 7))
+print("\nResultado final:", pesquisa_binaria(minha_lista, 3))
