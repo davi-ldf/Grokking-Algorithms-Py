@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab2e421-76d5-4d99-8424-21c744428a45" name="Changes" comment="algorithm complete">
-      <change beforePath="$PROJECT_DIR$/binary-search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary-search.py" afterDir="false" />
-    </list>
+    <list default="true" id="dab2e421-76d5-4d99-8424-21c744428a45" name="Changes" comment="trying exercise 1 by myself" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +34,7 @@
 }]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/binary-search.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/binary-search2.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -49,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.binary-search.executor": "Run",
+    "Python.binary-search2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -191,12 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1743988791300</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="trying exercise 1 by myself">
+      <option name="closed" value="true" />
+      <created>1743989532017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743989532017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update name" />
     <MESSAGE value="algorithm complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="algorithm complete" />
+    <MESSAGE value="trying exercise 1 by myself" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying exercise 1 by myself" />
   </component>
 </project>
